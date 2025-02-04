@@ -4,7 +4,7 @@ My repository
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, and the Internet of Things 
 - 🌱 I’m currently learning advanced neural network architectures and reinforcement learning algorithms
 - 💞️ I’m looking to collaborate on AI-driven projects that push the boundaries of technology and innovation
-- 📫 How to reach me via email: fandgm04@gmail.com
+- 📫 How to reach me via email: fandgm@rknec.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy experimenting with DIY electronics and have built my own robot from scratch
 - 🌟 More Fun Facts:
